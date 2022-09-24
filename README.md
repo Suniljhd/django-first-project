@@ -1,2 +1,2 @@
 # django-first-project
-It is a private chat application
+A private chat application
